@@ -1,4 +1,7 @@
-### Hi there 👋
+### Henlo!
+Just a random script kiddie (probably) that desperately trying to either make, or contribute something.
+
+I kinda need some assistance here... :/
 
 <!--
 **BashhScriptKid/BashhScriptKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
