@@ -14,7 +14,7 @@ Current focus: [JANOARG](https://github.com/FFF40/JANOARG)
 I kinda need some assistance here... :/
 
 ### Stacks(?)
-I don't really show my stacks here because I'm not really predictable myself (and lazy)
+I don't really show my stacks (in a _fancy_ way) here because I'm not really predictable myself (and lazy)
 But the gist is:
   - Have decent experience:
     - C#
@@ -25,6 +25,10 @@ But the gist is:
     - Python
   - Learning:
     - C
+    - Graphic/Shader bullsh*ts
+    - TypeScript (f*ck JavaScript)
+   
+<sub> You can contact me through email on my profile or the contact one (just replace 'dev' with 'contact', goes in a better fitting inbox for me)</sub>
 <!--
 **BashhScriptKid/BashhScriptKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
