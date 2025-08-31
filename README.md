@@ -1,8 +1,30 @@
-### Henlo!
+## Henlo!
+
 Just a random script kiddie (probably) that desperately trying to either make, or contribute something.
 
+### Pronoun
+Any pronoun goes! <sub>Some might call me queer for this but personally no.</sub>
+
+### Things
+Current focus: [JANOARG](https://github.com/FFF40/JANOARG)
+
+(Also check out: [fStreamDecryptor](https://github.com/BashhScriptKid/fStreamDecryptor), [osu!Edgeflow](https://codeberg.org/BashhScriptKid/osuEdgeflow))
+
+### Internal thoughts
 I kinda need some assistance here... :/
 
+### Stacks(?)
+I don't really show my stacks here because I'm not really predictable myself (and lazy)
+But the gist is:
+  - Have decent experience:
+    - C#
+    - Bash (real)
+    - Figma
+    - Krita/Photopea/Photoshop (Image manipulation softwares)
+  - Can work, but barely used:
+    - Python
+  - Learning:
+    - C
 <!--
 **BashhScriptKid/BashhScriptKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
